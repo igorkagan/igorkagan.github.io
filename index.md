@@ -873,13 +873,12 @@ Israel
     properties in V1 of alert monkeys. Institute for Brain Science,
     Brown University, RI, 2002
 
-```{=html}
-<!-- -->
-```
+# Selected abstracts and conference presentations
+
 1.  Kagan I., Moeller S., Darani Z.Y., Treue S., Gail A. Behavioral
     mechanisms and premotor cortex representations of dyadic
-    coordination in transparent games (blitz talk and poster). *Social
-    Brain Magdeburg 2023.*
+    coordination in transparent games. *Social Brain Magdeburg 2023
+    (blitz talk and poster).*
 
 2.  Moeller S., Dann B., Scherberger H., Treue S., Gail A., Kagan I.
     Neural correlates of dynamic coordination in macaque premotor
