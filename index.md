@@ -151,10 +151,11 @@ meeting in Goettingen
 Biology, Cerebral Cortex, Communications Biology, eLife, eNeuro,
 European Journal of Neuroscience, Frontiers in Neuroscience, Frontiers
 in Zoology, Journal of Neuroscience, Journal of Neurophysiology, Journal
-of Economic Psychology, Nature Communications, NeuroImage, Neuroscience
-& Biobehavioral Reviews, Physical Review, PLoS Biology, PLoS
-Computational Biology, PNAS, Progress in Neurobiology, Scientific
-Reports, Trends in Cognitive Sciences, Vision Research
+of Economic Psychology, Imaging Neuroscience, Nature Communications,
+NeuroImage, Neuroscience & Biobehavioral Reviews, Physical Review, PLoS
+Biology, PLoS Computational Biology, PNAS, Progress in Neurobiology,
+Science Advances, Scientific Reports, Trends in Cognitive Sciences,
+Vision Research
 
 **Ad hoc reviewer for funding agencies:** ANR -- The French National
 Research Agency, BSF -- Binational Science Foundation (US -- Israel),
@@ -269,15 +270,22 @@ Israel
 
 ## Postdoctoral researchers
 
-1.  Liubov Vasileva 2021 -- present
+1.  Zahra Yousefi Darani 2023 -- present
 
-2.  Khanh Nguyen 2020 -- 2022
+2.  Liubov Vasileva 2021 -- present
 
-3.  Lukas Schneider 2019 -- present
+3.  Khanh Nguyen 2020 -- 2022
 
-4.  Anton Unakafov 2016 -- 2019
+4.  Lukas Schneider 2019 -- present
 
-5.  Sebastian Moeller 2016 -- present
+5.  Anton Unakafov 2016 -- 2019
+
+6.  Sebastian Moeller 2016 -- present
+
+## Faculty, Goettingen Graduate Center for Neurosciences, Biophysics, and Molecular Biosciences
+
+Systems Neuroscience, Sensory and Motor Neuroscience, Neurosciences
+(IMPRS), Theoretical and Computational Neuroscience
 
 ## PhD students and pre-doctoral trainees 
 
@@ -545,7 +553,7 @@ Israel
 4.  Wilke M., **Kagan I.** (2023). Visuospatial and Motor Deficits
     Following Pulvinar Lesions. In: The Cerebral Cortex and Thalamus
     (Usrey WM, Sherman SM, eds), Oxford University Press.
-    https://doi.org/10.1093/med/9780197676158.003.0071
+    https://doi.org/10.1093/med/9780197676158.003.0071.
 
 5.  Benedetto A., **Kagan I.** (2023). Active vision: How you look
     reflects what you are looking for. *Current Biology* 33:R303--R305.
@@ -750,8 +758,8 @@ Israel
 
 2.  Dang S., Antono J.E., **Kagan I.**, Pooresmaeili A. (2022)
     Modality-specific and modality-general representations of reward
-    value in frontal cortex. bioRxiv, 2022.12.25.521898 Available at:
-    https://www.biorxiv.org/content/10.1101/2022.12.25.521898v2 *In
+    value in frontal cortex. bioRxiv, 2022.12.25.521898 Available at
+    <https://www.biorxiv.org/content/10.1101/2022.12.25.521898v2> *In
     review in Communications Biology*
 
 3.  Kaduk K., Wilke M., **Kagan I.** (2022) Dorsal pulvinar inactivation
